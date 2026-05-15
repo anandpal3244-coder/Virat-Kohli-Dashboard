@@ -1,4 +1,7 @@
 # 🏏 Virat Kohli ODI Performance Analytics Dashboard
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C03&size=28&center=true&vCenter=true&width=800&lines=Virat+Kohli+Performance+Analytics+Dashboard;Power+BI+Sports+Analytics+Project;Data+Storytelling+Using+Visualization" />
+</p>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-blue)
